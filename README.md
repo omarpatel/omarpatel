@@ -4,6 +4,19 @@ High school student in Waterloo, Ontario. I write Solana programs in Rust, contr
 
 Looking for an internship or co-op. [LinkedIn](https://www.linkedin.com/in/omarpateldev/) / [omarpatel.github.io](https://omarpatel.github.io)
 
+### Founded
+
+In 2026 I launched 8 on-chain products on Solana and Robinhood Chain mainnet. Together they generated $70k+ in on-chain fees ($12k+ paid out to holders), $2.5M+ in token trading volume and 1,500+ token holders. Most are offline now.
+
+- [Imagine](https://imagine.fun): lock-to-earn vaults for Raydium LaunchLab coins. 15 coins, $6.6k paid out to 37 wallets in 423 on-chain payouts.
+- Pyre: AI app builder where each app is funded by its own coin. $800k+ on-chain volume, 700+ holders. Code: [prompt-to-app-platform](https://github.com/omarpatel/prompt-to-app-platform).
+- Clasp: lock-to-earn launchpad on Robinhood Chain. 6 coins, 2.4+ ETH claimed by lockers.
+- Coffer: non-custodial trader vaults on Solana. $380k+ token volume; the vaults never took outside deposits. Code: [trader-vaults](https://github.com/omarpatel/trader-vaults).
+- Backstock: backer-funded launches on Raydium LaunchLab. 9 launches, $300k+ token volume.
+- [KOL Brain](https://kolbrain.fun): AI profiles of Solana wallets' trading styles. $200k+ token volume. Code: [wallet-behavior-graph](https://github.com/omarpatel/wallet-behavior-graph).
+- PaperApe: paper trading for Solana memecoins. Code: [paper-trading-platform](https://github.com/omarpatel/paper-trading-platform).
+- Bellwether: fee-to-buyback engine, run as a paper-mode beta. Code: [fee-treasury-perps-engine](https://github.com/omarpatel/fee-treasury-perps-engine).
+
 ### Solana programs
 
 - [trader-vaults](https://github.com/omarpatel/trader-vaults): investors pool SOL, a trader trades it, and the Anchor program gives the trader no way to withdraw it.
