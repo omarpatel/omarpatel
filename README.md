@@ -20,9 +20,9 @@ I build complete systems end to end: on-chain programs and smart contracts, the 
 | Project | What it does | Engineering | Stack |
 |---|---|---|---|
 | [llm-trading-arena](https://github.com/omarpatel/llm-trading-arena) | LLM agents and rule-based controls each trade a real Solana wallet; every decision and on-chain fill is published | 63 tests, lint + typecheck + build in CI | Next.js, TypeScript, Solana |
-| [trader-vaults](https://github.com/omarpatel/trader-vaults) | Non-custodial vaults: an Anchor program lets traders trade pooled deposits they can never withdraw | Rust program + React terminal + Express API | Rust/Anchor, React, Prisma |
-| [agent-treasury](https://github.com/omarpatel/agent-treasury) | Autonomous AI agents funded by their own Solana treasury, paying for their own models and compute | Double-entry ledger, sandboxed tools | TypeScript, Fastify, Postgres |
-| [paper-trading-platform](https://github.com/omarpatel/paper-trading-platform) | Paper trading for Solana tokens across web, mobile, API and a Chrome extension | Turborepo monorepo, WebSocket API | Next.js, Expo, Express |
+| [trader-vaults](https://github.com/omarpatel/trader-vaults) | Non-custodial vaults: an Anchor program lets traders trade pooled deposits they can never withdraw | 24 Rust unit tests + typecheck + build in CI | Rust/Anchor, React, Prisma |
+| [agent-treasury](https://github.com/omarpatel/agent-treasury) | Autonomous AI agents funded by their own Solana treasury, paying for their own models and compute | Double-entry ledger, 66 shared-package tests in CI | TypeScript, Fastify, Postgres |
+| [paper-trading-platform](https://github.com/omarpatel/paper-trading-platform) | Paper trading for Solana tokens across web, mobile, API and a Chrome extension | Turborepo build + lint + test in CI | Next.js, Expo, Express |
 | [fee-routed-fundraising](https://github.com/omarpatel/fee-routed-fundraising) | Routes token creator fees into auditable fundraising vaults with on-chain delivery receipts | 123 tests in CI | Next.js, Drizzle, Solana |
 | [ibkr-algo-trader](https://github.com/omarpatel/ibkr-algo-trader) | Research and paper-trading framework for Interactive Brokers with walk-forward backtesting and an ML trade filter | 103 tests in CI | Python, pandas, XGBoost |
 | [onchain-economy-sim](https://github.com/omarpatel/onchain-economy-sim) | Multiplayer economic strategy sim with a deterministic engine and Solana Merkle-claim settlement | 4 Anchor programs, engine tests in CI | Anchor, Next.js, R3F |
