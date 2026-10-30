@@ -6,16 +6,16 @@ High school student in Waterloo, Ontario. I write Solana programs in Rust, contr
 
 ### Founded
 
-In 2026 I founded and launched 8 on-chain products on Solana and Robinhood Chain. Most are offline now; the code for several is public below.
+In 2026 I founded and launched 8 on-chain products on Solana and Robinhood Chain. I built the programs, contracts, backends and apps for each.
 
-- [Imagine](https://imagine.fun): lock-to-earn vaults for Raydium LaunchLab coins. 15 coins, $6.6k paid out to 37 wallets in 423 on-chain payouts.
-- Pyre: AI app builder where each app is funded by its own coin. $800k+ on-chain volume, 700+ holders. Code: [prompt-to-app-platform](https://github.com/omarpatel/prompt-to-app-platform).
-- Clasp: lock-to-earn launchpad on Robinhood Chain. 6 coins, 2.4+ ETH claimed by lockers.
-- Coffer: non-custodial trader vaults on Solana. $380k+ token volume; the vaults never took outside deposits. Code: [trader-vaults](https://github.com/omarpatel/trader-vaults).
-- Backstock: backer-funded launches on Raydium LaunchLab. 9 launches, $300k+ token volume.
-- [KOL Brain](https://kolbrain.fun): AI profiles of Solana wallets' trading styles. $200k+ token volume. Code: [wallet-behavior-graph](https://github.com/omarpatel/wallet-behavior-graph).
-- PaperApe: paper trading for Solana memecoins. Code: [paper-trading-platform](https://github.com/omarpatel/paper-trading-platform).
-- Bellwether: fee-to-buyback engine, run as a paper-mode beta. Code: [fee-treasury-perps-engine](https://github.com/omarpatel/fee-treasury-perps-engine).
+- [Imagine](https://imagine.fun): lock-to-earn vaults for Raydium LaunchLab coins. Holders lock a coin and earn its trading fees, paid out on-chain.
+- [Pyre](https://pyre.fun): AI app builder where each app is funded by its own coin. Code: [prompt-to-app-platform](https://github.com/omarpatel/prompt-to-app-platform).
+- [Clasp](https://clasp.fun): lock-to-earn launchpad on Robinhood Chain.
+- [Coffer](https://coffer.fun): non-custodial trader vaults on Solana. Code: [trader-vaults](https://github.com/omarpatel/trader-vaults).
+- [Backstock](https://backstock.fun): backer-funded launches with rule-bound on-chain vaults on Raydium LaunchLab.
+- [KOL Brain](https://kolbrain.fun): AI profiles of Solana wallets' trading styles. Code: [wallet-behavior-graph](https://github.com/omarpatel/wallet-behavior-graph).
+- [PaperApe](https://paperape.fun): paper trading for Solana memecoins. Code: [paper-trading-platform](https://github.com/omarpatel/paper-trading-platform).
+- [Bellwether](https://bellwether.fun): engine that turns creator fees into stock-perp trades and buybacks. Code: [fee-treasury-perps-engine](https://github.com/omarpatel/fee-treasury-perps-engine).
 
 ### Solana programs
 
