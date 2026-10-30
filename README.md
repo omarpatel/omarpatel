@@ -2,11 +2,11 @@
 
 High school student in Waterloo, Ontario. I write Solana programs in Rust, contracts in Solidity, trading systems in Python, and the TypeScript apps around them.
 
-Looking for an internship or co-op. [LinkedIn](https://www.linkedin.com/in/omarpateldev/) / [omarpatel.github.io](https://omarpatel.github.io)
+[LinkedIn](https://www.linkedin.com/in/omarpateldev/) / [omarpatel.github.io](https://omarpatel.github.io)
 
 ### Founded
 
-In 2026 I launched 8 on-chain products on Solana and Robinhood Chain mainnet. Together they generated $70k+ in on-chain fees ($12k+ paid out to holders), $2.5M+ in token trading volume and 1,500+ token holders. Most are offline now.
+In 2026 I founded and launched 8 on-chain products on Solana and Robinhood Chain. Most are offline now; the code for several is public below.
 
 - [Imagine](https://imagine.fun): lock-to-earn vaults for Raydium LaunchLab coins. 15 coins, $6.6k paid out to 37 wallets in 423 on-chain payouts.
 - Pyre: AI app builder where each app is funded by its own coin. $800k+ on-chain volume, 700+ holders. Code: [prompt-to-app-platform](https://github.com/omarpatel/prompt-to-app-platform).
